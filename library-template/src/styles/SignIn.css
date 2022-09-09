@@ -1,0 +1,11 @@
+.loginButton {
+  color: white !important;
+  background-color: #e5a58b !important;
+  border-color: #e5a58b !important;
+  width: 100%;
+}
+
+.spanColor {
+  color: #979695;
+  padding: 30px 0px;
+}

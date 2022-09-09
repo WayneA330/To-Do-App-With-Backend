@@ -1,0 +1,12 @@
+.header-bc {
+  background: #a1ccce !important;
+  background: linear-gradient(90deg, #a1ccce 0%, #718f90 80%) !important;
+}
+
+.light-bc {
+  background-color: #a1ccce !important;
+}
+
+.ant-drawer-body {
+  background-color: #fff7f4 !important;
+}
